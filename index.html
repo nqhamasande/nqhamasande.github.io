@@ -19,7 +19,7 @@
 <header>
 
     <div class="user">
-        <img src="images/pic.jpg" alt="">
+        <img src="pic.jpg" alt="">
         <h3 class="name">Qhamasande Njemla</h3>
         <p class="post">Student</p>
     </div>
