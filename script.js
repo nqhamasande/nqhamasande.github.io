@@ -18,7 +18,7 @@ $(document).ready(function(){
 
   });
 
-  // smooth scrolling 
+  // smooth scrolling
 
   $('a[href*="#"]').on('click',function(e){
 
